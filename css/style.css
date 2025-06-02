@@ -245,13 +245,9 @@ li{
 
 
 .footer {
-<<<<<<< HEAD
     
   display: flex;
   margin-top: 50px;
-=======
-  margin-top: 20px;
->>>>>>> 5f001a04dd72360516e8059cf01a40cc5dcd6b74
   background-color: #222;      /* Color de fondo oscuro */
   color: white;                /* Texto en blanco */
   text-align: center;          /* Centrar el texto */
@@ -260,7 +256,6 @@ li{
   width: 100%;
 }
 
-<<<<<<< HEAD
 .mam{
     width: 1000px;
     
@@ -270,9 +265,6 @@ li{
     float: right;
     margin: 0;
 } */
-
-=======
->>>>>>> 5f001a04dd72360516e8059cf01a40cc5dcd6b74
 
 
 /* style ahorros */
@@ -346,11 +338,7 @@ li{
 
 .url { 
     
-<<<<<<< HEAD
     background-color: #ffffff;
-=======
-    background-color: #c4eb28;
->>>>>>> 5f001a04dd72360516e8059cf01a40cc5dcd6b74
     text-align: center;
     align-items: center;
     margin-top: 50px;
@@ -361,7 +349,6 @@ li{
     gap: 10px;
 
 } 
-<<<<<<< HEAD
 
 .url ul{
     margin-top: 50px;
@@ -474,6 +461,3 @@ li{
     width: 400px;
      right: 200px;
 }
-=======
-    
->>>>>>> 5f001a04dd72360516e8059cf01a40cc5dcd6b74
